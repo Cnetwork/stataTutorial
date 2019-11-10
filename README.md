@@ -1,17 +1,12 @@
-# StataTutorial
+# StataTutorial (Document Branch)
 
 从零开始学 Stata (From 2019-11-10 For CS)
 
-## 为什么要写这个教程
-Matlab是科学计算软件，Python是一门编程语言，也可以用来做科学计算，其余四个是统计软件（SAS是公认的世界上最好的统计软件，R是开源软件，学界用得比较多，其余两个是玩具）。零基础完全不了解程序的人当然可以学。这些东西语法都不困难。数学要达到什么水平似乎跟学语言无关。而跟你要解决的问题有关，语言只是工具，解决问题才是最重要的，不要为了学语言而学语言。带着问题去学。
+附属文件较大，单独使用一个 Branch 存储，使用时请切换到 document 分支，然后下载即可。
 
-## 目录
-这是一个脚注<sup>〔1〕</sup>
+## 使用方法
+`help gs` : 展示帮助页面
 
-
-## 参考文献
-〔1〕 [Github 中文排版规约](https://github.com/sparanoid/chinese-copywriting-guidelines)
-〔1〕 []()
-〔1〕 []()
-〔1〕 []()
-〔1〕 []()
+## 特别注意
+- Mac 上 Stata-MP 不可用，使用 SE 版本即可
+- 帮助文档，windows选择 gsw 版本, mac 使用 gsm 版本， unix 使用 gsu 版本
